@@ -2,5 +2,5 @@ primer2
 =======
 First line
 
-Heading 1
+Heading 2
 =========
